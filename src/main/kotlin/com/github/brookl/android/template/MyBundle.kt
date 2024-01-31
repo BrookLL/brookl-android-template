@@ -1,4 +1,4 @@
-package com.github.brookll.brooklandroidtemplate
+package com.github.brookl.android.template
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
